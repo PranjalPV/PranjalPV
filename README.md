@@ -111,14 +111,14 @@ const pranjal = {
 🔗 [**Live App**](https://pranjal-portfolio-n0hd.onrender.com) · [**GitHub Repository**](https://github.com/PranjalPV/pranjal-portfolio)
 
 ---
-
+<!--
 ## 📈 Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PranjalPV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6A4A&icon_color=FF6A4A&text_color=c9d1d9" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranjalPV&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6A4A&fire=FF6A4A&currStreakLabel=FF6A4A" height="150" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ## 🎓 Education & Roles
